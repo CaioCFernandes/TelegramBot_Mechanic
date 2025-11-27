@@ -7,6 +7,8 @@
 
 [🇬🇧 English](#-english) | [🇧🇷 Português](#-português)
 
+´´´´
+
 ---
 
 ## 🇬🇧 English
