@@ -1,4 +1,3 @@
-````markdown
 # 🚗 AI Car Consultant Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -6,8 +5,6 @@
 ![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
 
 [🇬🇧 English](#-english) | [🇧🇷 Português](#-português)
-
-´´´´
 
 ---
 
@@ -36,7 +33,7 @@ It acts as a specialized consultant, capable of providing technical specificatio
    ```bash
    git clone [https://github.com/CaioCFernandes/TelegramBot_Mechanic.git](https://github.com/CaioCFernandes/TelegramBot_Mechanic.git)
    cd TelegramBot_Mechanic
-````
+   ```
 
 2.  **Install dependencies**
 
