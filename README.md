@@ -1,3 +1,4 @@
+````markdown
 # 🚗 AI Car Consultant Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -33,7 +34,7 @@ It acts as a specialized consultant, capable of providing technical specificatio
    ```bash
    git clone [https://github.com/CaioCFernandes/TelegramBot_Mechanic.git](https://github.com/CaioCFernandes/TelegramBot_Mechanic.git)
    cd TelegramBot_Mechanic
-   ```
+````
 
 2.  **Install dependencies**
 
@@ -42,7 +43,9 @@ It acts as a specialized consultant, capable of providing technical specificatio
     ```
 
 3.  **Configure Environment Variables**
-    Create a `.env` file in the root folder (based on `.env.example`) and add your keys:
+    First, create your bot using **[BotFather](https://t.me/BotFather)** on Telegram to obtain your token.
+
+    Then, create a `.env` file in the root folder (based on `.env.example`) and add your keys:
 
     ```env
     token=YOUR_TELEGRAM_BOT_TOKEN
@@ -95,7 +98,9 @@ Ele atua como um consultor especializado, capaz de fornecer fichas técnicas, an
     ```
 
 3.  **Configure as Variáveis de Ambiente**
-    Crie um arquivo `.env` na pasta raiz (baseado no `.env.example`) e adicione suas chaves:
+    Primeiro, crie seu bot utilizando o **[BotFather](https://t.me/BotFather)** no Telegram para obter seu token.
+
+    Em seguida, crie um arquivo `.env` na pasta raiz (baseado no `.env.example`) e adicione suas chaves:
 
     ```env
     token=SEU_TELEGRAM_BOT_TOKEN
@@ -116,4 +121,5 @@ This project is licensed under the MIT License.
 
 Developed by [Caio Fernandes](https://www.google.com/search?q=https://github.com/CaioCFernandes)
 
-````
+```
+```
