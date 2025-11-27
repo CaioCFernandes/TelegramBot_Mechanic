@@ -1,3 +1,4 @@
+````markdown
 # 🚗 AI Car Consultant Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -6,7 +7,7 @@
 
 [🇬🇧 English](#-english) | [🇧🇷 Português](#-português)
 
-----
+---
 
 ## 🇬🇧 English
 
@@ -16,16 +17,16 @@
 It acts as a specialized consultant, capable of providing technical specifications, analyzing pros/cons, estimating maintenance costs, and suggesting vehicles based on the user's budget and usage profile.
 
 ### 🚀 Key Features
-* **Detailed Specs:** Ask for any car (e.g., *"Honda Civic 2010"*) and get engine details, transmission type, and fuel consumption.
-* **Pros & Cons Analysis:** The bot highlights the good points and warns about chronic defects or expensive maintenance.
-* **Personalized Recommendations:** Ask for advice (e.g., *"Best car for Uber under R$ 40k"*) and get tailored suggestions.
-* **Natural Language Processing:** No need for rigid commands. Just chat naturally.
+- **Detailed Specs:** Ask for any car (e.g., *"Honda Civic 2010"*) and get engine details, transmission type, and fuel consumption.
+- **Pros & Cons Analysis:** The bot highlights the good points and warns about chronic defects or expensive maintenance.
+- **Personalized Recommendations:** Ask for advice (e.g., *"Best car for Uber under R$ 40k"*) and get tailored suggestions.
+- **Natural Language Processing:** No need for rigid commands. Just chat naturally.
 
 ### 🛠️ Tech Stack
-* **Language:** Python
-* **Interface:** [python-telegram-bot](https://python-telegram-bot.org/)
-* **Intelligence:** Google Gemini API (`gemini-2.5-flash`)
-* **Environment:** python-dotenv
+- **Language:** Python
+- **Interface:** [python-telegram-bot](https://python-telegram-bot.org/)
+- **Intelligence:** Google Gemini API (`gemini-2.5-flash`)
+- **Environment:** python-dotenv
 
 ### ⚙️ How to Run Locally
 
@@ -33,7 +34,7 @@ It acts as a specialized consultant, capable of providing technical specificatio
    ```bash
    git clone [https://github.com/CaioCFernandes/TelegramBot_Mechanic.git](https://github.com/CaioCFernandes/TelegramBot_Mechanic.git)
    cd TelegramBot_Mechanic
-   ```
+````
 
 2.  **Install dependencies**
 
@@ -67,17 +68,17 @@ Ele atua como um consultor especializado, capaz de fornecer fichas técnicas, an
 
 ### 🚀 Funcionalidades Principais
 
-  * **Ficha Técnica Detalhada:** Pergunte sobre qualquer carro (ex: *"Honda Civic 2010"*) e receba dados de motor, câmbio e consumo.
-  * **Análise de Prós e Contras:** O bot destaca os pontos positivos e avisa sobre defeitos crônicos ou manutenção cara.
-  * **Recomendações Personalizadas:** Peça conselhos (ex: *"Melhor carro para Uber até R$ 40 mil"*) e receba sugestões sob medida.
-  * **Processamento de Linguagem Natural:** Sem necessidade de comandos rígidos. Converse naturalmente.
+  - **Ficha Técnica Detalhada:** Pergunte sobre qualquer carro (ex: *"Honda Civic 2010"*) e receba dados de motor, câmbio e consumo.
+  - **Análise de Prós e Contras:** O bot destaca os pontos positivos e avisa sobre defeitos crônicos ou manutenção cara.
+  - **Recomendações Personalizadas:** Peça conselhos (ex: *"Melhor carro para Uber até R$ 40 mil"*) e receba sugestões sob medida.
+  - **Processamento de Linguagem Natural:** Sem necessidade de comandos rígidos. Converse naturalmente.
 
 ### 🛠️ Tecnologias Utilizadas
 
-  * **Linguagem:** Python
-  * **Interface:** [python-telegram-bot](https://python-telegram-bot.org/)
-  * **Inteligência:** Google Gemini API (`gemini-2.5-flash`)
-  * **Ambiente:** python-dotenv
+  - **Linguagem:** Python
+  - **Interface:** [python-telegram-bot](https://python-telegram-bot.org/)
+  - **Inteligência:** Google Gemini API (`gemini-2.5-flash`)
+  - **Ambiente:** python-dotenv
 
 ### ⚙️ Como Rodar Localmente
 
@@ -116,5 +117,4 @@ This project is licensed under the MIT License.
 
 Developed by [Caio Fernandes](https://www.google.com/search?q=https://github.com/CaioCFernandes)
 
-```
-```
+````
