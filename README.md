@@ -34,7 +34,7 @@ It acts as a specialized consultant, capable of providing technical specificatio
    ```bash
    git clone [https://github.com/CaioCFernandes/TelegramBot_Mechanic.git](https://github.com/CaioCFernandes/TelegramBot_Mechanic.git)
    cd TelegramBot_Mechanic
-````
+   ```
 
 2.  **Install dependencies**
 
