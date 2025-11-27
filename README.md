@@ -120,5 +120,3 @@ Ele atua como um consultor especializado, capaz de fornecer fichas técnicas, an
 This project is licensed under the MIT License.
 
 Developed by [Caio Fernandes](https://www.google.com/search?q=https://github.com/CaioCFernandes)
-
-```
