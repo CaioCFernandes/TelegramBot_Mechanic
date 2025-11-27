@@ -122,4 +122,3 @@ This project is licensed under the MIT License.
 Developed by [Caio Fernandes](https://www.google.com/search?q=https://github.com/CaioCFernandes)
 
 ```
-```
