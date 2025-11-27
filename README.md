@@ -1,4 +1,3 @@
-````markdown
 # 🚗 AI Car Consultant Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
